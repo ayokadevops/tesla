@@ -6,3 +6,5 @@ print('goodness')
 print('prosper')
 print('ayoka you are doing great')
 bugs have been removed
+print('car servicing automated')
+print('hello your car needs servicing, visit the nearest car service agency')
